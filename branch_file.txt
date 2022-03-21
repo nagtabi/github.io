@@ -1,3 +1,4 @@
 new file
 ujabb szoveg
 local valtoztatas
+valami
